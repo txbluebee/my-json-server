@@ -1,0 +1,17 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello",
+      "content" : "Yes"
+    },
+    {
+      "id": 2,
+      "title": "hello Kitty",
+      "content" : "No"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
